@@ -145,9 +145,9 @@ if &t_Co > 255
       hi CursorLineNr ctermfg=208               cterm=none
    endif
    hi Boolean         ctermfg=135
-   hi Character       ctermfg=144
+   hi Character       ctermfg=228
    hi Number          ctermfg=135
-   hi String          ctermfg=144
+   hi String          ctermfg=228
    hi Conditional     ctermfg=161               cterm=bold
    hi Constant        ctermfg=135               cterm=bold
    hi Cursor          ctermfg=16  ctermbg=253
@@ -238,16 +238,16 @@ if &t_Co > 255
        hi CursorLineNr ctermfg=208               cterm=none
 
        hi Boolean         ctermfg=141
-       hi Character       ctermfg=222
+       hi Character       ctermfg=228
        hi Number          ctermfg=141
-       hi String          ctermfg=222
+       hi String          ctermfg=228
        hi Conditional     ctermfg=197               cterm=bold
        hi Constant        ctermfg=141               cterm=bold
 
        hi DiffDelete      ctermfg=125 ctermbg=233
 
        hi Directory       ctermfg=154               cterm=bold
-       hi Error           ctermfg=222 ctermbg=233
+       hi Error           ctermfg=228 ctermbg=233
        hi Exception       ctermfg=154               cterm=bold
        hi Float           ctermfg=141
        hi Function        ctermfg=154
